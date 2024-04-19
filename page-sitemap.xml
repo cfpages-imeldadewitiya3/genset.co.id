@@ -1,1320 +1,1320 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://genset.co.id/berita</loc>
 		<lastmod>2023-05-15T07:29:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/</loc>
+		<loc>https://genset.co.id/</loc>
 		<lastmod>2023-05-20T05:26:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/bahan-bakar</loc>
+		<loc>https://genset.co.id/bahan-bakar</loc>
 		<lastmod>2023-05-20T05:16:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/volvo-penta</loc>
+		<loc>https://genset.co.id/volvo-penta</loc>
 		<lastmod>2023-05-18T16:05:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/perkins</loc>
+		<loc>https://genset.co.id/perkins</loc>
 		<lastmod>2023-05-18T16:00:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/maxtron</loc>
+		<loc>https://genset.co.id/maxtron</loc>
 		<lastmod>2023-05-18T15:56:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/krisbow</loc>
+		<loc>https://genset.co.id/krisbow</loc>
 		<lastmod>2023-05-18T15:52:53+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/hargen</loc>
+		<loc>https://genset.co.id/hargen</loc>
 		<lastmod>2023-05-18T15:48:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/foton</loc>
+		<loc>https://genset.co.id/foton</loc>
 		<lastmod>2023-05-18T15:45:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/deutz</loc>
+		<loc>https://genset.co.id/deutz</loc>
 		<lastmod>2023-05-18T15:41:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/honda</loc>
+		<loc>https://genset.co.id/honda</loc>
 		<lastmod>2023-05-18T15:37:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/lovol</loc>
+		<loc>https://genset.co.id/lovol</loc>
 		<lastmod>2023-05-18T15:32:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/mitsubishi</loc>
+		<loc>https://genset.co.id/mitsubishi</loc>
 		<lastmod>2023-05-18T13:43:11+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/yamaha</loc>
+		<loc>https://genset.co.id/yamaha</loc>
 		<lastmod>2023-05-18T13:38:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/yanmar</loc>
+		<loc>https://genset.co.id/yanmar</loc>
 		<lastmod>2023-05-18T13:33:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/logo-genset.png</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/logo-genset.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/sewa</loc>
+		<loc>https://genset.co.id/sewa</loc>
 		<lastmod>2023-05-16T15:00:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tangki-solar</loc>
+		<loc>https://genset.co.id/tangki-solar</loc>
 		<lastmod>2023-05-16T14:49:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/panel-listrik</loc>
+		<loc>https://genset.co.id/panel-listrik</loc>
 		<lastmod>2023-05-16T14:41:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/silent-box</loc>
+		<loc>https://genset.co.id/silent-box</loc>
 		<lastmod>2023-05-16T14:31:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/servis/maintenance</loc>
+		<loc>https://genset.co.id/servis/maintenance</loc>
 		<lastmod>2023-05-16T13:44:53+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/servis/instalasi</loc>
+		<loc>https://genset.co.id/servis/instalasi</loc>
 		<lastmod>2023-05-16T13:11:47+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/servis</loc>
+		<loc>https://genset.co.id/servis</loc>
 		<lastmod>2023-05-16T10:35:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/servis/overhaul</loc>
+		<loc>https://genset.co.id/servis/overhaul</loc>
 		<lastmod>2023-05-16T02:33:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/produk</loc>
+		<loc>https://genset.co.id/produk</loc>
 		<lastmod>2023-05-15T14:34:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/portable</loc>
+		<loc>https://genset.co.id/portable</loc>
 		<lastmod>2023-05-15T14:30:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/silent</loc>
+		<loc>https://genset.co.id/silent</loc>
 		<lastmod>2023-05-15T14:29:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/open</loc>
+		<loc>https://genset.co.id/open</loc>
 		<lastmod>2023-05-15T13:37:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tentang-kami</loc>
+		<loc>https://genset.co.id/tentang-kami</loc>
 		<lastmod>2023-05-15T08:40:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-silent-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-open.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/genset-portable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Foton.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Foton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Hargen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Honda.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Honda.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Krisbow.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Lovol.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Maxtron.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Mitsubishi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Perkins.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Volvo-Penta.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yamaha.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Yanmar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
+			<image:loc>https://genset.co.id/wp-content/uploads/2023/05/Deutz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy</loc>
+		<loc>https://genset.co.id/privacy-policy</loc>
 		<lastmod>2023-05-15T07:26:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/kontak-kami</loc>
+		<loc>https://genset.co.id/kontak-kami</loc>
 		<lastmod>2023-05-15T07:22:34+00:00</lastmod>
 	</url>
 </urlset>
