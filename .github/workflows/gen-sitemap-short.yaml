@@ -1,4 +1,4 @@
-name: Generate Complete Sitemap
+name: Gen-Complete Sitemap
 
 on: [workflow_dispatch]
 
