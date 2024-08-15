@@ -26,7 +26,8 @@ jobs:
           URL_COUNT=$(grep -c '<url>' sitemap-complete.xml)
           grep '<loc>' sitemap-complete.xml | sed -E 's|<loc>(.*)</loc>|- [\1](https://anonymto.com/?https://google.com/search?q=\1)|' > url-list.txt
           echo -e "\n## Sitemap URLs\nNumber of URLs: ${URL_COUNT}\n$(cat url-list.txt)" > README.md
-      - env: { GH_PAT: ${{ secrets.GH_PAT }} }
+      - env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
