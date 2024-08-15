@@ -24,7 +24,7 @@ jobs:
           echo '</urlset>' >> sitemap-complete.xml
       - run: |
           URL_COUNT=$(grep -c '<url>' sitemap-complete.xml)
-          grep '<loc>' sitemap-complete.xml | sed -E 's|<loc>(.*)</loc>|- [\1](https://anonymto.com/?https://google.com/search?q=\1)|' > url-list.txt
+          grep '<loc>' sitemap-complete.xml | sed -E 's|<loc>(.*)</loc>|- [\1](https://anonymto.com/?https://google.com/search?q=site%3A\1" target="_blank")|' > url-list.txt
           echo -e "\n## Sitemap URLs\nNumber of URLs: ${URL_COUNT}\n$(cat url-list.txt)" > README.md
       - env:
           GH_PAT: ${{ secrets.GH_PAT }}
