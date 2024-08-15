@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v2
       - id: check_sitemap
         run: echo "SITEMAP_EXISTS=$(if [ -f sitemap-complete.xml ]; then echo true; else echo false; fi)" >> $GITHUB_ENV
-      - if: env.SITEMAP_EXISTS == 'false'
+      - if: ${{ env.SITEMAP_EXISTS == 'false' }}
         env: { REPO_NAME: ${{ github.event.repository.name }} }
         run: |
           BASE_URL="https://$(echo $REPO_NAME | tr '[:upper:]' '[:lower:]')"
