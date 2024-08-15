@@ -1,15 +1,17 @@
 name: Generate Complete Sitemap v.2
 on: [workflow_dispatch]
-permissions: { contents: write }
+permissions:
+  contents: write
 jobs:
   generate_sitemap:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - id: check_sitemap
-        run: echo "SITEMAP_EXISTS=$(if [ -f sitemap-complete.xml ]; then echo true; else echo false; fi)" >> $GITHUB_ENV
+        run: |
+          echo "SITEMAP_EXISTS=$(if [ -f sitemap-complete.xml ]; then echo true; else echo false; fi)" >> $GITHUB_ENV
       - if: ${{ env.SITEMAP_EXISTS == 'false' }}
-        env: { REPO_NAME: ${{ github.event.repository.name }} }
+        env: { REPO_NAME: "${{ github.event.repository.name }}" }
         run: |
           BASE_URL="https://$(echo $REPO_NAME | tr '[:upper:]' '[:lower:]')"
           echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap-complete.xml
